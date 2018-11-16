@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1511258062 source:d:\documents\exia\a1 18\projet fondamentaux scientifique\13 projet fondamentaux scientifiques cardio\projet final1\generationcode.c
+	<stdio.h>
+	<stdlib.h>
+	"generationCode.h"
+
+1511258074 d:\documents\exia\a1 18\projet fondamentaux scientifique\13 projet fondamentaux scientifiques cardio\projet final1\generationcode.h
+
+1542355747 source:d:\documents\exia\a1 18\projet fondamentaux scientifique\13 projet fondamentaux scientifiques cardio\projet final1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"generationCode.h"
+
+1510648914 d:\documents\exia\a1 18\projet fondamentaux scientifique\13 projet fondamentaux scientifiques cardio\projet final1\menu.h
+
+1511024248 source:d:\documents\exia\a1 18\projet fondamentaux scientifique\13 projet fondamentaux scientifiques cardio\projet final1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
